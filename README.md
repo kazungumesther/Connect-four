@@ -1,4 +1,4 @@
-# Connect Four 🎮
+# Connect Four 
 
 A two-player Connect Four game built with **Next.js, React, TypeScript, and CSS**.
 
