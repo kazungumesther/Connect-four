@@ -63,6 +63,7 @@ npm start
 ## Deployment
 
 Deployed using Vercel.
+https://connect-four-rho-eight.vercel.app/
 
 ## Author
 
